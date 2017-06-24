@@ -23,6 +23,10 @@ hs_err_pid*
 
 # IntelliJ
 *.iml
+.idea
 
 # Mac OSX
 .DS_Store
+
+# Maven
+target
